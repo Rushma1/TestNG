@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-22T06:39:54Z" name="Surefire suite" finished-at="2024-05-22T06:40:08Z" duration-ms="13508">
+    <groups>
+    </groups>
+    <test started-at="2024-05-22T06:39:54Z" name="Surefire test" finished-at="2024-05-22T06:40:08Z" duration-ms="13508">
+      <class name="variousConcepts.CrmTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:variousConcepts.CrmTest@292b08d6]" started-at="2024-05-22T06:39:54Z" name="setup" finished-at="2024-05-22T06:39:57Z" duration-ms="3346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogin()[pri:0, instance:variousConcepts.CrmTest@292b08d6]" started-at="2024-05-22T06:39:57Z" name="testLogin" finished-at="2024-05-22T06:40:08Z" duration-ms="10146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- variousConcepts.CrmTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
